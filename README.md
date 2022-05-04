@@ -1,4 +1,4 @@
-# IDL-3
+# IDL-3 (PIC: EEPROM in C)
 
 This repository documents my lab work in college using a PIC 18F46K80 processor and EEPROM in C.
 
